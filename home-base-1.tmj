@@ -1541,7 +1541,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"past-innovation-lab.tmj#entry-from-playground"
+                         "value":"https:\/\/play.workadventu.re\/@\/past-foundation\/past-foundation\/past-innovation-lab#entry-from-playground"
                         }],
                  "rotation":0,
                  "type":"",
