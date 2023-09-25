@@ -714,7 +714,7 @@
         {
          "name":"mapName",
          "type":"string",
-         "value":"Portable Innovation Lab - Observatory Telescope"
+         "value":"Portable Innovation Lab"
         }, 
         {
          "name":"tilesetCopyright",

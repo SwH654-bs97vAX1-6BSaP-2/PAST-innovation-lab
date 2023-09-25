@@ -1804,7 +1804,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"https:\/\/play.workadventu.re\/@\/past-foundation\/past-foundation\/home-base-1"
+                         "value":"https:\/\/play.workadventu.re\/@\/past-foundation\/past-foundation\/home-base"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -1855,7 +1855,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"honda.tmjh"
+                         "value":"https:\/\/play.workadventu.re\/@\/past-foundation\/past-foundation\/honda"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -1872,7 +1872,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"portable-innovation-lab.tmj"
+                         "value":"https:\/\/play.workadventu.re\/@\/past-foundation\/past-foundation\/portable-innovation-lab"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -1889,7 +1889,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"bath-and-body-works.tmj\u00df"
+                         "value":"https:\/\/play.workadventu.re\/@\/past-foundation\/past-foundation\/bath-and-body-works"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -1900,7 +1900,7 @@
                 }],
          "opacity":1,
          "type":"objectgroup",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }, 
