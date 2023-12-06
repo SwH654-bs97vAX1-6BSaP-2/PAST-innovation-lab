@@ -2021,7 +2021,7 @@
                         }],
                  "rotation":0,
                  "type":"website",
-                 "visible":true,
+                 "visible":false,
                  "width":250,
                  "x":977.19780039552,
                  "y":2561.79658302189
@@ -2038,7 +2038,7 @@
                         }],
                  "rotation":0,
                  "type":"website",
-                 "visible":true,
+                 "visible":false,
                  "width":250,
                  "x":1408.04464109616,
                  "y":2559.72951376971
@@ -2055,7 +2055,7 @@
                         }],
                  "rotation":0,
                  "type":"website",
-                 "visible":true,
+                 "visible":false,
                  "width":350,
                  "x":822.644702306948,
                  "y":2739.13561131874
@@ -2072,7 +2072,7 @@
                         }],
                  "rotation":0,
                  "type":"website",
-                 "visible":true,
+                 "visible":false,
                  "width":350,
                  "x":1449.53377538334,
                  "y":2741.14863931482
