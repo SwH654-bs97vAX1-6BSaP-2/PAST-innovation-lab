@@ -1951,7 +1951,7 @@
         {
          "columns":6,
          "firstgid":1,
-         "image":"..\/PAST-innovation-lab\/tilesets\/WA_Special_Zones.png",
+         "image":"tilesets\/WA_Special_Zones.png",
          "imageheight":64,
          "imagewidth":192,
          "margin":0,
@@ -1974,7 +1974,7 @@
         {
          "columns":70,
          "firstgid":13,
-         "image":"..\/PAST-innovation-lab\/tilesets\/honda-grounds-bg.png",
+         "image":"tilesets\/honda-grounds-bg.png",
          "imageheight":1920,
          "imagewidth":2240,
          "margin":0,
@@ -1987,7 +1987,7 @@
         {
          "columns":22,
          "firstgid":4213,
-         "image":"..\/PAST-innovation-lab\/tilesets\/billboard-honda.png",
+         "image":"tilesets\/billboard-honda.png",
          "imageheight":513,
          "imagewidth":705,
          "margin":0,
@@ -2000,7 +2000,7 @@
         {
          "columns":70,
          "firstgid":4565,
-         "image":"..\/PAST-innovation-lab\/tilesets\/honda-grounds-fg.png",
+         "image":"tilesets\/honda-grounds-fg.png",
          "imageheight":1920,
          "imagewidth":2240,
          "margin":0,
@@ -2013,7 +2013,7 @@
         {
          "columns":31,
          "firstgid":8765,
-         "image":"..\/PAST-innovation-lab\/tilesets\/decor-rugs-1.png",
+         "image":"tilesets\/decor-rugs-1.png",
          "imageheight":1120,
          "imagewidth":1023,
          "margin":0,
@@ -2026,7 +2026,7 @@
         {
          "columns":69,
          "firstgid":9850,
-         "image":"..\/PAST-innovation-lab\/tilesets\/tables.png",
+         "image":"tilesets\/tables.png",
          "imageheight":3268,
          "imagewidth":2239,
          "margin":0,
@@ -2039,7 +2039,7 @@
         {
          "columns":73,
          "firstgid":16888,
-         "image":"..\/PAST-innovation-lab\/tilesets\/grounds-assets.png",
+         "image":"tilesets\/grounds-assets.png",
          "imageheight":1567,
          "imagewidth":2348,
          "margin":0,
@@ -2052,7 +2052,7 @@
         {
          "columns":58,
          "firstgid":20392,
-         "image":"..\/PAST-innovation-lab\/tilesets\/honda-houses.png",
+         "image":"tilesets\/honda-houses.png",
          "imageheight":2592,
          "imagewidth":1856,
          "margin":0,
@@ -2065,7 +2065,7 @@
         {
          "columns":25,
          "firstgid":25090,
-         "image":"..\/PAST-innovation-lab\/tilesets\/furniture-honda.png",
+         "image":"tilesets\/furniture-honda.png",
          "imageheight":800,
          "imagewidth":800,
          "margin":0,
@@ -2078,7 +2078,7 @@
         {
          "columns":21,
          "firstgid":25715,
-         "image":"..\/PAST-innovation-lab\/tilesets\/cars-honda.png",
+         "image":"tilesets\/cars-honda.png",
          "imageheight":1147,
          "imagewidth":672,
          "margin":0,
@@ -2091,7 +2091,7 @@
         {
          "columns":27,
          "firstgid":26450,
-         "image":"..\/PAST-innovation-lab\/tilesets\/white-boards.png",
+         "image":"tilesets\/white-boards.png",
          "imageheight":640,
          "imagewidth":865,
          "margin":0,
@@ -2104,7 +2104,7 @@
         {
          "columns":51,
          "firstgid":26990,
-         "image":"..\/PAST-innovation-lab\/tilesets\/chairs.png",
+         "image":"tilesets\/chairs.png",
          "imageheight":1400,
          "imagewidth":1632,
          "margin":0,
@@ -2117,7 +2117,7 @@
         {
          "columns":39,
          "firstgid":29183,
-         "image":"..\/PAST-innovation-lab\/tilesets\/decor.png",
+         "image":"tilesets\/decor.png",
          "imageheight":1030,
          "imagewidth":1248,
          "margin":0,
@@ -2130,7 +2130,7 @@
         {
          "columns":42,
          "firstgid":30431,
-         "image":"..\/PAST-innovation-lab\/tilesets\/bookshelves.png",
+         "image":"tilesets\/bookshelves.png",
          "imageheight":1030,
          "imagewidth":1348,
          "margin":0,
@@ -2143,7 +2143,7 @@
         {
          "columns":38,
          "firstgid":31775,
-         "image":"..\/PAST-innovation-lab\/tilesets\/indoor-plants.png",
+         "image":"tilesets\/indoor-plants.png",
          "imageheight":1346,
          "imagewidth":1216,
          "margin":0,
@@ -2156,7 +2156,7 @@
         {
          "columns":50,
          "firstgid":33371,
-         "image":"..\/PAST-innovation-lab\/tilesets\/puffs.png",
+         "image":"tilesets\/puffs.png",
          "imageheight":1601,
          "imagewidth":1603,
          "margin":0,
@@ -2169,7 +2169,7 @@
         {
          "columns":38,
          "firstgid":35871,
-         "image":"..\/PAST-innovation-lab\/tilesets\/indoor-plants-1.png",
+         "image":"tilesets\/indoor-plants-1.png",
          "imageheight":1346,
          "imagewidth":1216,
          "margin":0,
@@ -2182,7 +2182,7 @@
         {
          "columns":92,
          "firstgid":37467,
-         "image":"..\/PAST-innovation-lab\/tilesets\/couches.png",
+         "image":"tilesets\/couches.png",
          "imageheight":2496,
          "imagewidth":2946,
          "margin":0,
@@ -2195,7 +2195,7 @@
         {
          "columns":52,
          "firstgid":44643,
-         "image":"..\/PAST-innovation-lab\/tilesets\/lamps.png",
+         "image":"tilesets\/lamps.png",
          "imageheight":1080,
          "imagewidth":1666,
          "margin":0,
@@ -2208,7 +2208,7 @@
         {
          "columns":92,
          "firstgid":46359,
-         "image":"..\/PAST-innovation-lab\/tilesets\/couches-fg.png",
+         "image":"tilesets\/couches-fg.png",
          "imageheight":2496,
          "imagewidth":2946,
          "margin":0,
@@ -2221,7 +2221,7 @@
         {
          "columns":40,
          "firstgid":53535,
-         "image":"..\/PAST-innovation-lab\/tilesets\/white-rugs.png",
+         "image":"tilesets\/white-rugs.png",
          "imageheight":1280,
          "imagewidth":1280,
          "margin":0,
@@ -9080,7 +9080,7 @@
         {
          "columns":20,
          "firstgid":55135,
-         "image":"..\/PAST-innovation-lab\/tilesets\/past-lab-signs.png",
+         "image":"tilesets\/past-lab-signs.png",
          "imageheight":896,
          "imagewidth":640,
          "margin":0,
