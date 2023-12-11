@@ -1,7 +1,7 @@
 /// <reference types="@workadventure/iframe-api-typings" />
 
 import { bootstrapExtra } from "@workadventure/scripting-api-extra";
-
+import { EmbeddedWebsite } from "@workadventure/iframe-api-typings";
 
 //console.log('Script started successfully');
 
@@ -12,10 +12,29 @@ let currentPopup: any = undefined;
 WA.onInit().then( async() => {
     console.log('Scripting API ready');
     console.log('Player tags: ',WA.player.tags)
+    let droneRightBig: EmbeddedWebsite = await WA.room.website.get("drone-right-big");
+    let droneLeftBig: EmbeddedWebsite = await WA.room.website.get("drone-left-big");
+    let droneRightSmall: EmbeddedWebsite = await WA.room.website.get("drone-right-small");
+    let droneLeftSmall: EmbeddedWebsite = await WA.room.website.get("drone-left-small");
     console.log("Julia test")
     // Julia custom
 
-
+    // dron animation
+    WA.room.onEnterLayer("drone_zone").subscribe(() => {
+      droneLeftBig.visible = true;
+      droneLeftSmall.visible = true;
+      droneRightBig.visible = true;
+      droneRightSmall.visible = true;
+      WA.room.hideLayer("drone-off");
+    });
+    
+  WA.room.onLeaveLayer("drone_zone").subscribe(() => {
+    droneLeftBig.visible = false;
+    droneLeftSmall.visible = false;
+    droneRightBig.visible = false;
+    droneRightSmall.visible = false;
+    WA.room.showLayer("drone-off");
+    });
    
   WA.room.onEnterLayer("floor").subscribe(() => {
     console.log("Entered to floor")
