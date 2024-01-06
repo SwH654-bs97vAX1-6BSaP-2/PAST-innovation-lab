@@ -2897,7 +2897,7 @@
                         {
                          "name":"playAudio",
                          "type":"string",
-                         "value":"\/birds.mp3"
+                         "value":"birds.mp3"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -2924,7 +2924,7 @@
                         {
                          "name":"playAudio",
                          "type":"string",
-                         "value":"\/birds.mp3"
+                         "value":"birds.mp3"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -2951,7 +2951,7 @@
                         {
                          "name":"playAudio",
                          "type":"string",
-                         "value":"\/birds.mp3"
+                         "value":"birds.mp3"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -2978,7 +2978,7 @@
                         {
                          "name":"playAudio",
                          "type":"string",
-                         "value":"\/birds.mp3"
+                         "value":"birds.mp3"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -3005,7 +3005,7 @@
                         {
                          "name":"playAudio",
                          "type":"string",
-                         "value":"\/waterfall.mp3"
+                         "value":"waterfall.mp3"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -3032,7 +3032,7 @@
                         {
                          "name":"playAudio",
                          "type":"string",
-                         "value":"\/fire.mp3"
+                         "value":"fire.mp3"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -3552,7 +3552,7 @@
                         {
                          "name":"playAudio",
                          "type":"string",
-                         "value":"\/cave.mp3"
+                         "value":"cave.mp3"
                         }],
                  "rotation":0,
                  "type":"area",

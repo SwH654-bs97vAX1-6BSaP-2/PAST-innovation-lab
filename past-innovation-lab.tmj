@@ -1881,7 +1881,7 @@
                         {
                          "name":"playAudio",
                          "type":"string",
-                         "value":"\/fountain.mp3"
+                         "value":"fountain.mp3"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -2059,6 +2059,33 @@
                  "width":350,
                  "x":1449.53377538334,
                  "y":2741.14863931482
+                }, 
+                {
+                 "height":156.084094287534,
+                 "id":48,
+                 "name":"drone-sound",
+                 "properties":[
+                        {
+                         "name":"audioLoop",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"audioVolume",
+                         "type":"float",
+                         "value":1
+                        }, 
+                        {
+                         "name":"playAudio",
+                         "type":"string",
+                         "value":"drone.mp3"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":124.76109577405,
+                 "x":1249.73455086006,
+                 "y":2818.53896793374
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -3399,7 +3426,7 @@
          "y":0
         }],
  "nextlayerid":36,
- "nextobjectid":48,
+ "nextobjectid":49,
  "orientation":"orthogonal",
  "properties":[
         {
