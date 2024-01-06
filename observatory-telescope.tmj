@@ -15671,7 +15671,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "observatory-telescope-chunk-1-e8c69096.png",
+      "image": "observatory-telescope-chunk-1-0b1a6818.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -15757,7 +15757,7 @@
     {
       "columns": 16,
       "firstgid": 257,
-      "image": "observatory-telescope-chunk-2-e8c69096.png",
+      "image": "observatory-telescope-chunk-2-0b1a6818.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -15772,7 +15772,7 @@
     {
       "columns": 16,
       "firstgid": 513,
-      "image": "observatory-telescope-chunk-3-e8c69096.png",
+      "image": "observatory-telescope-chunk-3-0b1a6818.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -15787,7 +15787,7 @@
     {
       "columns": 16,
       "firstgid": 769,
-      "image": "observatory-telescope-chunk-4-e8c69096.png",
+      "image": "observatory-telescope-chunk-4-0b1a6818.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -15802,7 +15802,7 @@
     {
       "columns": 16,
       "firstgid": 1025,
-      "image": "observatory-telescope-chunk-5-e8c69096.png",
+      "image": "observatory-telescope-chunk-5-0b1a6818.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -15817,7 +15817,7 @@
     {
       "columns": 16,
       "firstgid": 1281,
-      "image": "observatory-telescope-chunk-6-e8c69096.png",
+      "image": "observatory-telescope-chunk-6-0b1a6818.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -15832,7 +15832,7 @@
     {
       "columns": 16,
       "firstgid": 1537,
-      "image": "observatory-telescope-chunk-7-e8c69096.png",
+      "image": "observatory-telescope-chunk-7-0b1a6818.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -15847,7 +15847,7 @@
     {
       "columns": 16,
       "firstgid": 1793,
-      "image": "observatory-telescope-chunk-8-e8c69096.png",
+      "image": "observatory-telescope-chunk-8-0b1a6818.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -15862,7 +15862,7 @@
     {
       "columns": 16,
       "firstgid": 2049,
-      "image": "observatory-telescope-chunk-9-e8c69096.png",
+      "image": "observatory-telescope-chunk-9-0b1a6818.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -15877,7 +15877,7 @@
     {
       "columns": 16,
       "firstgid": 2305,
-      "image": "observatory-telescope-chunk-10-e8c69096.png",
+      "image": "observatory-telescope-chunk-10-0b1a6818.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -15892,7 +15892,7 @@
     {
       "columns": 16,
       "firstgid": 2561,
-      "image": "observatory-telescope-chunk-11-e8c69096.png",
+      "image": "observatory-telescope-chunk-11-0b1a6818.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -15907,7 +15907,7 @@
     {
       "columns": 16,
       "firstgid": 2817,
-      "image": "observatory-telescope-chunk-12-e8c69096.png",
+      "image": "observatory-telescope-chunk-12-0b1a6818.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -15922,7 +15922,7 @@
     {
       "columns": 16,
       "firstgid": 3073,
-      "image": "observatory-telescope-chunk-13-e8c69096.png",
+      "image": "observatory-telescope-chunk-13-0b1a6818.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -15937,7 +15937,7 @@
     {
       "columns": 16,
       "firstgid": 3329,
-      "image": "observatory-telescope-chunk-14-e8c69096.png",
+      "image": "observatory-telescope-chunk-14-0b1a6818.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -15952,7 +15952,7 @@
     {
       "columns": 16,
       "firstgid": 3585,
-      "image": "observatory-telescope-chunk-15-e8c69096.png",
+      "image": "observatory-telescope-chunk-15-0b1a6818.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -15967,7 +15967,7 @@
     {
       "columns": 16,
       "firstgid": 3841,
-      "image": "observatory-telescope-chunk-16-e8c69096.png",
+      "image": "observatory-telescope-chunk-16-0b1a6818.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -15982,7 +15982,7 @@
     {
       "columns": 16,
       "firstgid": 4097,
-      "image": "observatory-telescope-chunk-17-e8c69096.png",
+      "image": "observatory-telescope-chunk-17-0b1a6818.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -15997,7 +15997,7 @@
     {
       "columns": 16,
       "firstgid": 4353,
-      "image": "observatory-telescope-chunk-18-e8c69096.png",
+      "image": "observatory-telescope-chunk-18-0b1a6818.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -16012,7 +16012,7 @@
     {
       "columns": 16,
       "firstgid": 4609,
-      "image": "observatory-telescope-chunk-19-e8c69096.png",
+      "image": "observatory-telescope-chunk-19-0b1a6818.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -16027,7 +16027,7 @@
     {
       "columns": 16,
       "firstgid": 4865,
-      "image": "observatory-telescope-chunk-20-e8c69096.png",
+      "image": "observatory-telescope-chunk-20-0b1a6818.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -16042,7 +16042,7 @@
     {
       "columns": 16,
       "firstgid": 5121,
-      "image": "observatory-telescope-chunk-21-e8c69096.png",
+      "image": "observatory-telescope-chunk-21-0b1a6818.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -16057,7 +16057,7 @@
     {
       "columns": 16,
       "firstgid": 5377,
-      "image": "observatory-telescope-chunk-22-e8c69096.png",
+      "image": "observatory-telescope-chunk-22-0b1a6818.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -16072,7 +16072,7 @@
     {
       "columns": 16,
       "firstgid": 5633,
-      "image": "observatory-telescope-chunk-23-e8c69096.png",
+      "image": "observatory-telescope-chunk-23-0b1a6818.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -16087,7 +16087,7 @@
     {
       "columns": 16,
       "firstgid": 5889,
-      "image": "observatory-telescope-chunk-24-e8c69096.png",
+      "image": "observatory-telescope-chunk-24-0b1a6818.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -16102,7 +16102,7 @@
     {
       "columns": 16,
       "firstgid": 6145,
-      "image": "observatory-telescope-chunk-25-e8c69096.png",
+      "image": "observatory-telescope-chunk-25-0b1a6818.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -16117,7 +16117,7 @@
     {
       "columns": 16,
       "firstgid": 6401,
-      "image": "observatory-telescope-chunk-26-e8c69096.png",
+      "image": "observatory-telescope-chunk-26-0b1a6818.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -16132,7 +16132,7 @@
     {
       "columns": 16,
       "firstgid": 6657,
-      "image": "observatory-telescope-chunk-27-e8c69096.png",
+      "image": "observatory-telescope-chunk-27-0b1a6818.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -16147,7 +16147,7 @@
     {
       "columns": 16,
       "firstgid": 6913,
-      "image": "observatory-telescope-chunk-28-e8c69096.png",
+      "image": "observatory-telescope-chunk-28-0b1a6818.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -16162,7 +16162,7 @@
     {
       "columns": 16,
       "firstgid": 7169,
-      "image": "observatory-telescope-chunk-29-e8c69096.png",
+      "image": "observatory-telescope-chunk-29-0b1a6818.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -16177,7 +16177,7 @@
     {
       "columns": 13,
       "firstgid": 7425,
-      "image": "observatory-telescope-chunk-30-e8c69096.png",
+      "image": "observatory-telescope-chunk-30-0b1a6818.png",
       "imageheight": 416,
       "imagewidth": 416,
       "margin": 0,
